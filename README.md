@@ -94,7 +94,7 @@ license.
 
 ## Author
 
-**Arnav Singh**
+**Arnav Singh Sijwali**
 
 GitHub: [@arnavsijwali-dev](https://github.com/arnavsijwali-dev)
 
